@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace LePetitRedu
 {
-    public class Startup // demo comment
+    public class Startup
     {
         public Startup(IConfiguration configuration)
         { // comments
