@@ -14,7 +14,7 @@ namespace LePetitRedu
     public class Startup // demo comment
     {
         public Startup(IConfiguration configuration)
-        {
+        { // comments
             Configuration = configuration;
         }
 
